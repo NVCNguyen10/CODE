@@ -1,4 +1,6 @@
 /**
+//Nguyễn Văn Chí Nguyên
+
  * Calculates the average of an array of numbers.
  *
  * @param numbers The array of numbers to calculate the average for.
@@ -14,6 +16,6 @@ public double calculateAverage(double[] numbers) throws IllegalArgumentException
     for (double number : numbers) {
         sum += number;
     }
-//123
+//Nguyễn Văn Chí Nguyên
     return sum / numbers.length;
 }
